@@ -7,4 +7,4 @@ function getRandomString(length: number): void {
     console.log('Рандомная строка: ', result)
 }
 
-getRandomString(6)
+getRandomString(7)
